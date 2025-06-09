@@ -22,6 +22,4 @@ git clone https://github.com/renxingdawang/CppThird_party.git
 
 #### 效果图
 
-![](C:\Users\方品文\Pictures\截图\屏幕截图 2025-06-09 172017.png)
 
-![](D:\A-study\A-实习项目\images\cpp调用rust服务的过程.png)
