@@ -1,0 +1,743 @@
+[
+    {
+        "time": 1748873235.0516722,
+        "cpu": 43.7,
+        "memory": 17.5,
+        "network": {
+            "Ethernet": {
+                "sent": 49638701,
+                "received": 2003269122
+            },
+            "Loopback Pseudo-Interface 1": {
+                "sent": 0,
+                "received": 0
+            }
+        },
+        "disk": {
+            "PhysicalDrive0": {
+                "read_mb": 3285.55419921875,
+                "write_mb": 11838.20654296875
+            }
+        },
+        "disk_usage": {
+            "C:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "D:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "E:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "F:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            }
+        }
+    },
+    {
+        "time": 1748873247.070149,
+        "cpu": 33.2,
+        "memory": 17.9,
+        "network": {
+            "Ethernet": {
+                "sent": 50204959,
+                "received": 2027347934
+            },
+            "Loopback Pseudo-Interface 1": {
+                "sent": 0,
+                "received": 0
+            }
+        },
+        "disk": {
+            "PhysicalDrive0": {
+                "read_mb": 3309.1875,
+                "write_mb": 11883.36328125
+            }
+        },
+        "disk_usage": {
+            "C:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "D:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "E:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "F:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            }
+        }
+    },
+    {
+        "time": 1748873259.1097205,
+        "cpu": 100.0,
+        "memory": 18.3,
+        "network": {
+            "Ethernet": {
+                "sent": 50786153,
+                "received": 2049652480
+            },
+            "Loopback Pseudo-Interface 1": {
+                "sent": 0,
+                "received": 0
+            }
+        },
+        "disk": {
+            "PhysicalDrive0": {
+                "read_mb": 3345.46240234375,
+                "write_mb": 11933.9521484375
+            }
+        },
+        "disk_usage": {
+            "C:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "D:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "E:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "F:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            }
+        }
+    },
+    {
+        "time": 1748873271.144012,
+        "cpu": 100.0,
+        "memory": 19.1,
+        "network": {
+            "Ethernet": {
+                "sent": 51021461,
+                "received": 2057414653
+            },
+            "Loopback Pseudo-Interface 1": {
+                "sent": 0,
+                "received": 0
+            }
+        },
+        "disk": {
+            "PhysicalDrive0": {
+                "read_mb": 4027.28466796875,
+                "write_mb": 12501.099609375
+            }
+        },
+        "disk_usage": {
+            "C:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "D:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "E:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "F:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            }
+        }
+    },
+    {
+        "time": 1748873283.1775954,
+        "cpu": 98.7,
+        "memory": 19.1,
+        "network": {
+            "Ethernet": {
+                "sent": 51487506,
+                "received": 2076979916
+            },
+            "Loopback Pseudo-Interface 1": {
+                "sent": 0,
+                "received": 0
+            }
+        },
+        "disk": {
+            "PhysicalDrive0": {
+                "read_mb": 5518.8876953125,
+                "write_mb": 13981.21142578125
+            }
+        },
+        "disk_usage": {
+            "C:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "D:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "E:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "F:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            }
+        }
+    },
+    {
+        "time": 1748873295.2031412,
+        "cpu": 96.4,
+        "memory": 19.0,
+        "network": {
+            "Ethernet": {
+                "sent": 52075114,
+                "received": 2102252862
+            },
+            "Loopback Pseudo-Interface 1": {
+                "sent": 0,
+                "received": 0
+            }
+        },
+        "disk": {
+            "PhysicalDrive0": {
+                "read_mb": 6961.4990234375,
+                "write_mb": 15375.6708984375
+            }
+        },
+        "disk_usage": {
+            "C:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "D:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "E:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "F:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            }
+        }
+    },
+    {
+        "time": 1748873307.2194934,
+        "cpu": 100.0,
+        "memory": 18.9,
+        "network": {
+            "Ethernet": {
+                "sent": 52559031,
+                "received": 2122483327
+            },
+            "Loopback Pseudo-Interface 1": {
+                "sent": 0,
+                "received": 0
+            }
+        },
+        "disk": {
+            "PhysicalDrive0": {
+                "read_mb": 7476.7412109375,
+                "write_mb": 15810.8544921875
+            }
+        },
+        "disk_usage": {
+            "C:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "D:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "E:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "F:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            }
+        }
+    },
+    {
+        "time": 1748873319.2624383,
+        "cpu": 100.0,
+        "memory": 18.9,
+        "network": {
+            "Ethernet": {
+                "sent": 52990524,
+                "received": 2141155882
+            },
+            "Loopback Pseudo-Interface 1": {
+                "sent": 0,
+                "received": 0
+            }
+        },
+        "disk": {
+            "PhysicalDrive0": {
+                "read_mb": 7825.3056640625,
+                "write_mb": 16012.61083984375
+            }
+        },
+        "disk_usage": {
+            "C:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "D:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "E:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "F:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            }
+        }
+    },
+    {
+        "time": 1748873331.289431,
+        "cpu": 99.0,
+        "memory": 19.1,
+        "network": {
+            "Ethernet": {
+                "sent": 53498317,
+                "received": 2163116567
+            },
+            "Loopback Pseudo-Interface 1": {
+                "sent": 0,
+                "received": 0
+            }
+        },
+        "disk": {
+            "PhysicalDrive0": {
+                "read_mb": 8089.7939453125,
+                "write_mb": 16152.88134765625
+            }
+        },
+        "disk_usage": {
+            "C:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "D:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "E:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "F:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            }
+        }
+    },
+    {
+        "time": 1748873343.3057983,
+        "cpu": 81.7,
+        "memory": 19.4,
+        "network": {
+            "Ethernet": {
+                "sent": 54063712,
+                "received": 2187247454
+            },
+            "Loopback Pseudo-Interface 1": {
+                "sent": 0,
+                "received": 0
+            }
+        },
+        "disk": {
+            "PhysicalDrive0": {
+                "read_mb": 8993.88037109375,
+                "write_mb": 17138.802734375
+            }
+        },
+        "disk_usage": {
+            "C:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "D:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "E:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "F:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            }
+        }
+    },
+    {
+        "time": 1748873355.3233366,
+        "cpu": 83.5,
+        "memory": 19.3,
+        "network": {
+            "Ethernet": {
+                "sent": 54487784,
+                "received": 2204841718
+            },
+            "Loopback Pseudo-Interface 1": {
+                "sent": 0,
+                "received": 0
+            }
+        },
+        "disk": {
+            "PhysicalDrive0": {
+                "read_mb": 10129.359375,
+                "write_mb": 18332.09765625
+            }
+        },
+        "disk_usage": {
+            "C:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "D:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "E:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "F:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            }
+        }
+    },
+    {
+        "time": 1748873367.3419902,
+        "cpu": 58.1,
+        "memory": 19.8,
+        "network": {
+            "Ethernet": {
+                "sent": 54793002,
+                "received": 2217686426
+            },
+            "Loopback Pseudo-Interface 1": {
+                "sent": 0,
+                "received": 0
+            }
+        },
+        "disk": {
+            "PhysicalDrive0": {
+                "read_mb": 10691.421875,
+                "write_mb": 18955.72216796875
+            }
+        },
+        "disk_usage": {
+            "C:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "D:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "E:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "F:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            }
+        }
+    },
+    {
+        "time": 1748873379.3598843,
+        "cpu": 87.6,
+        "memory": 19.3,
+        "network": {
+            "Ethernet": {
+                "sent": 55264432,
+                "received": 2237362363
+            },
+            "Loopback Pseudo-Interface 1": {
+                "sent": 0,
+                "received": 0
+            }
+        },
+        "disk": {
+            "PhysicalDrive0": {
+                "read_mb": 11581.759765625,
+                "write_mb": 19907.49072265625
+            }
+        },
+        "disk_usage": {
+            "C:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "D:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "E:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "F:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            }
+        }
+    },
+    {
+        "time": 1748873391.3811371,
+        "cpu": 78.5,
+        "memory": 19.2,
+        "network": {
+            "Ethernet": {
+                "sent": 55967937,
+                "received": 2267747080
+            },
+            "Loopback Pseudo-Interface 1": {
+                "sent": 0,
+                "received": 0
+            }
+        },
+        "disk": {
+            "PhysicalDrive0": {
+                "read_mb": 12454.16015625,
+                "write_mb": 20856.57666015625
+            }
+        },
+        "disk_usage": {
+            "C:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "D:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "E:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "F:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            }
+        }
+    },
+    {
+        "time": 1748873403.3988802,
+        "cpu": 89.4,
+        "memory": 19.3,
+        "network": {
+            "Ethernet": {
+                "sent": 56434819,
+                "received": 2286611527
+            },
+            "Loopback Pseudo-Interface 1": {
+                "sent": 0,
+                "received": 0
+            }
+        },
+        "disk": {
+            "PhysicalDrive0": {
+                "read_mb": 12991.26220703125,
+                "write_mb": 21445.74560546875
+            }
+        },
+        "disk_usage": {
+            "C:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "D:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "E:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "F:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            }
+        }
+    },
+    {
+        "time": 1748873415.4180133,
+        "cpu": 90.3,
+        "memory": 22.6,
+        "network": {
+            "Ethernet": {
+                "sent": 57144378,
+                "received": 2317160292
+            },
+            "Loopback Pseudo-Interface 1": {
+                "sent": 0,
+                "received": 0
+            }
+        },
+        "disk": {
+            "PhysicalDrive0": {
+                "read_mb": 12991.4580078125,
+                "write_mb": 21613.70751953125
+            }
+        },
+        "disk_usage": {
+            "C:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "D:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "E:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "F:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            }
+        }
+    },
+    {
+        "time": 1748873427.468642,
+        "cpu": 87.8,
+        "memory": 22.6,
+        "network": {
+            "Ethernet": {
+                "sent": 57562808,
+                "received": 2334423087
+            },
+            "Loopback Pseudo-Interface 1": {
+                "sent": 0,
+                "received": 0
+            }
+        },
+        "disk": {
+            "PhysicalDrive0": {
+                "read_mb": 12991.7236328125,
+                "write_mb": 21802.1943359375
+            }
+        },
+        "disk_usage": {
+            "C:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "D:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "E:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "F:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            }
+        }
+    },
+    {
+        "time": 1748873439.4808245,
+        "cpu": 98.7,
+        "memory": 24.0,
+        "network": {
+            "Ethernet": {
+                "sent": 57625948,
+                "received": 2335485131
+            },
+            "Loopback Pseudo-Interface 1": {
+                "sent": 0,
+                "received": 0
+            }
+        },
+        "disk": {
+            "PhysicalDrive0": {
+                "read_mb": 13001.794921875,
+                "write_mb": 22023.16162109375
+            }
+        },
+        "disk_usage": {
+            "C:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "D:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "E:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "F:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            }
+        }
+    },
+    {
+        "time": 1748873451.496928,
+        "cpu": 89.4,
+        "memory": 20.3,
+        "network": {
+            "Ethernet": {
+                "sent": 57660319,
+                "received": 2336554237
+            },
+            "Loopback Pseudo-Interface 1": {
+                "sent": 0,
+                "received": 0
+            }
+        },
+        "disk": {
+            "PhysicalDrive0": {
+                "read_mb": 13403.8388671875,
+                "write_mb": 22551.2666015625
+            }
+        },
+        "disk_usage": {
+            "C:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "D:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "E:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "F:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            }
+        }
+    }
+]

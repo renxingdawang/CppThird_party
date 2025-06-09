@@ -1,0 +1,13 @@
+prefix=D:/agent/_work/1/s/_build/install
+exec_prefix=D:/agent/_work/1/s/_build/install
+libdir=D:/agent/_work/1/s/_build/install/lib
+sharedlibdir=D:/agent/_work/1/s/_build/install/lib
+includedir=D:/agent/_work/1/s/_build/install/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.3.1.1
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

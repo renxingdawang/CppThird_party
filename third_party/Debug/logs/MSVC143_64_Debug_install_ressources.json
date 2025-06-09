@@ -1,0 +1,158 @@
+[
+    {
+        "time": 1748877184.670801,
+        "cpu": 21.5,
+        "memory": 17.1,
+        "network": {
+            "Ethernet": {
+                "sent": 60569957,
+                "received": 2361033633
+            },
+            "Loopback Pseudo-Interface 1": {
+                "sent": 0,
+                "received": 0
+            }
+        },
+        "disk": {
+            "PhysicalDrive0": {
+                "read_mb": 17368.314453125,
+                "write_mb": 40882.8427734375
+            }
+        },
+        "disk_usage": {
+            "C:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "D:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "E:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "F:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            }
+        }
+    },
+    {
+        "time": 1748877196.6949627,
+        "cpu": 19.8,
+        "memory": 18.1,
+        "network": {
+            "Ethernet": {
+                "sent": 60585025,
+                "received": 2361044929
+            },
+            "Loopback Pseudo-Interface 1": {
+                "sent": 0,
+                "received": 0
+            }
+        },
+        "disk": {
+            "PhysicalDrive0": {
+                "read_mb": 17388.365234375,
+                "write_mb": 40889.478515625
+            }
+        },
+        "disk_usage": {
+            "C:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "D:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "E:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "F:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            }
+        }
+    },
+    {
+        "time": 1748877208.7074618,
+        "cpu": 20.1,
+        "memory": 20.0,
+        "network": {
+            "Ethernet": {
+                "sent": 60591791,
+                "received": 2361056983
+            },
+            "Loopback Pseudo-Interface 1": {
+                "sent": 0,
+                "received": 0
+            }
+        },
+        "disk": {
+            "PhysicalDrive0": {
+                "read_mb": 17476.60546875,
+                "write_mb": 40961.185546875
+            }
+        },
+        "disk_usage": {
+            "C:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "D:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "E:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "F:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            }
+        }
+    },
+    {
+        "time": 1748877220.7223673,
+        "cpu": 19.8,
+        "memory": 22.2,
+        "network": {
+            "Ethernet": {
+                "sent": 60736518,
+                "received": 2361091244
+            },
+            "Loopback Pseudo-Interface 1": {
+                "sent": 0,
+                "received": 0
+            }
+        },
+        "disk": {
+            "PhysicalDrive0": {
+                "read_mb": 17511.85302734375,
+                "write_mb": 43502.40771484375
+            }
+        },
+        "disk_usage": {
+            "C:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "D:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "E:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            },
+            "F:\\": {
+                "free_gb": 0.0,
+                "usage_percent": 100.0
+            }
+        }
+    }
+]
